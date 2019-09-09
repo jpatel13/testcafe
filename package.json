@@ -1,0 +1,17 @@
+{
+  "name": "PPC-Setup-E2E-UI-Tests",
+  "version": "1.0.0",
+  "description": "Configuring  TestCafe/Cucumber with es6 imports ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules\\.bin\\gherkin-testcafe chrome features\\step_definitions\\*.js features\\*.feature"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cucumber": "^5.1.0",
+    "cucumber-expressions": "^8.0.0",
+    "gherkin-testcafe": "^2.4.1",
+    "testcafe": "^1.4.3"
+  }
+}
