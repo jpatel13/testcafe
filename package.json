@@ -12,6 +12,6 @@
     "cucumber": "^5.1.0",
     "cucumber-expressions": "^8.0.0",
     "gherkin-testcafe": "^2.4.1",
-    "testcafe": "^1.4.3"
+    "testcafe": "^1.20.1"
   }
 }
